@@ -1,3 +1,3 @@
 # mylogo
 ![avatar](./Robinson.png)
-用cartopy画logo
+参考cartopy的logo，中二少年。
